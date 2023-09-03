@@ -23,5 +23,5 @@ func greeter() {
 }
 
 func serveHome(w http.ResponseWriter, r *http.Request) {
-	w.Write([]byte("<h1>Welcome to Backend, Pingggg"))
+	w.Write([]byte("<h1>Welcome to Backend, Pingggg</h1>"))
 }
