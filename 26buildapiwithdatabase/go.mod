@@ -1,4 +1,4 @@
-module apiswithdatabase
+module github.com/azad-ali786/mongoapi
 
 go 1.19
 
